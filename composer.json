@@ -1,5 +1,5 @@
 {
-    "name": "vizuall/code-editor",
+    "name": "statamic-addon/code-editor",
     "description": "Vizuall Code Editor fieldtypes",
     "type": "statamic-addon",
     "license": "proprietary",
